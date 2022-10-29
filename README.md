@@ -5,6 +5,7 @@
 _Roses are red, Violets are blue. Unexpected Mickael on line 32._
 
 - I am currently working on:
+    - 📰 [SudoC - OCR Sudoku solver](https://github.com/C-Sors-c/SudoC)
     - 🏎️ [AutoPylot - Autonomous Car](https://github.com/Autonomobile/AutoPylot)
     - 🏎️ [AutoCopylot simulator and synthetic data generator](https://github.com/Autonomobile/AutoCopylot)
     - 📸 [Grabber - Python cross-plateform screenshot library](https://github.com/mickael-btc/grabber)
