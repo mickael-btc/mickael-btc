@@ -5,7 +5,7 @@
 _Roses are red, Violets are blue. Unexpected Mickael on line 32._
 
 - I am currently working on:
-    - 🎵 Gummu - A decentralized music streaming plateform 
+    - 🎙️ Siborg - Preserving podcast authenticity with Web3 technology
     - 🌐 Massa's Explorer website
  
 ### Stats
